@@ -1,0 +1,4 @@
+telethon==1.24.0
+requests==2.31.0
+gspread==5.4.0
+oauth2client==4.1.3
